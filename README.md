@@ -25,4 +25,4 @@ This project analyzes the famous Titanic dataset to uncover patterns in passenge
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/titanic-analysis.git
+   git clone https://github.com/ChaithanyaSakamuri/Survival-Patterns-on-the-Titanic-A-Data-Driven-Exploration-Using-Python
